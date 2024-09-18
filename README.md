@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Michael Salcido]
+## [Lab02]
+## [Submission date: 09/18/24]
 ## Worked with/sources 
-* example
+print("Hello, COSC1010")
 * example
 * example
 * example
